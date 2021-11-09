@@ -4,7 +4,8 @@ A simple library that utilises the Tesseract OCR to locate text in images.
 
 Outputs both a shared and static library when run as-is. This allows the use of a
 `TextRecognition` class that has a `recognise` method which takes a filepath as a
-`std::string`.
+`std::string` and returns a `std::string` of any text found as well as saving several
+images with bounding boxes around found text.
 
 ## Building/Installing
 
