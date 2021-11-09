@@ -1,0 +1,9 @@
+/cmake-build-debug/
+/CMakeFiles/
+/Testing/
+/libTextRecognition.so
+/libTextRecognitionStatic.a
+/CMakeCache.txt
+/Makefile
+/cmake_install.cmake
+/install_manifest.txt
